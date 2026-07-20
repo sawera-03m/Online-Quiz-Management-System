@@ -2,7 +2,7 @@
 
 **4th Semester WEB TECHNOLOGIES Project**
 **Made By: Sawera Mushtaq.**
-  A Django-based web application for managing online quizzes/exams with three separate roles  **Admin**, **Teacher**, and **Student** — each with their own dashboard and permissions.
+  A Django-based web application for managing online quizzes/exams with three separate roles  **Admin**, **Teacher**, and **Student** each with their own dashboard and permissions.
 
 
 ---
@@ -110,3 +110,5 @@ This creates:
 ## 📌 Known Limitations
 - Admin/Teacher can add unlimited questions to a course, even though a fixed question count is set when the course is created.
 
+ #Author
+ **Sawera Mushtaq**
