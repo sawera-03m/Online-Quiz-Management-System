@@ -104,11 +104,8 @@ This creates:
 
 | Exam Rules | Exam |
 |---|---|
-| ![rules](static/screenshots/rules.png) | ![exam](static/screenshots/exam.png) |
+| ![rules](static/screenshots/rules.png) |
 
-| Teacher Dashboard |
-|---|
-| ![teacher](static/screenshots/teacher.png) |
 
 ---
 
