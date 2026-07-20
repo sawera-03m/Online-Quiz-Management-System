@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Admin
 - Login as admin (`createsuperuser`)
@@ -34,14 +34,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Backend:** Python, Django 3.0.5
 - **Frontend:** HTML, CSS, Bootstrap 4
 - **Database:** SQLite (default)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.7+ installed (make sure to check "Add to PATH" during install)
@@ -107,7 +107,7 @@ This creates:
 
 ---
 
-## 📌 Known Limitations
+##  Known Limitations
 - Admin/Teacher can add unlimited questions to a course, even though a fixed question count is set when the course is created.
 
  #Author
