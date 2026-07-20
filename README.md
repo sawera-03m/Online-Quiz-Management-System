@@ -2,7 +2,7 @@
 
 A Django-based web application for managing online quizzes/exams with three separate roles  **Admin**, **Teacher**, and **Student** — each with their own dashboard and permissions.
 **4th Semester WEB TECHNOLOGIES Project**
-**Made By:** Sawera
+**Made By: Sawera Mushtaq**
 
 ---
 
