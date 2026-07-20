@@ -102,9 +102,6 @@ This creates:
 |---|---|
 | ![homepage](static/screenshots/homepage.png) | ![admin dashboard](static/screenshots/adminhomepage.png) |
 
-| Exam Rules | Exam |
-|---|---|
-| ![rules](static/screenshots/rules.png) |
 
 
 ---
