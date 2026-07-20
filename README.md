@@ -47,41 +47,36 @@ A Django-based web application for managing online quizzes/exams with three sepa
 
 ### Installation
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-   ```
 
-2. Create a virtual environment (recommended)
+1. Create a virtual environment (recommended)
    ```bash
    python -m venv venv
    venv\Scripts\activate      # Windows
    source venv/bin/activate   # macOS/Linux
    ```
 
-3. Install dependencies
+2. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Apply migrations
+3. Apply migrations
    ```bash
    python manage.py makemigrations
    python manage.py migrate
    ```
 
-5. Create an admin account
+4. Create an admin account
    ```bash
    python manage.py createsuperuser
    ```
 
-6. Run the development server
+5. Run the development server
    ```bash
    python manage.py runserver
    ```
 
-7. Open your browser at
+6. Open your browser at
    ```
    http://127.0.0.1:8000/
    ```
